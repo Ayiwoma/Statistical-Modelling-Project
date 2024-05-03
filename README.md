@@ -22,6 +22,7 @@ and methodoligies to derive actionable insights from data.
    multinomial logistic regression models, evaluating model performance, and interpreting coefficients to make informed decisions.
 
 Conclusion:
+
 Through systematic exploration and application of statistical modeling techniques with Python, the project aims to empower one with the knowledge and 
 skills to extract valuable insights from data, make data-driven decisions, and drive positive outcomes across various domains.
 By achieving the outlined goals, one will emerge proficient in statistical modeling with Python, equipped to tackle complex data analysis challenges with confidence and efficacy.
