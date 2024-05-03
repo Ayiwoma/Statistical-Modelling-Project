@@ -21,9 +21,12 @@ and methodoligies to derive actionable insights from data.
 5. Logistic Regression: Extend modeling capabilities to classification problems through logistic regression. Develop proficiency in building binary and
    multinomial logistic regression models, evaluating model performance, and interpreting coefficients to make informed decisions.
 
+6. Real-world Applications: Apply acquired statistical modeling skills to real-world datasets and problems across diverse domains.
+   Engage in hands-on projects to address practical challenges and derive actionable insights from data.
+   
 Conclusion:
 
-Through systematic exploration and application of statistical modeling techniques with Python, the project aims to empower one with the knowledge and 
+Through systematic exploration and application of statistical modeling techniques with Python, this project aims to empower one with the knowledge and 
 skills to extract valuable insights from data, make data-driven decisions, and drive positive outcomes across various domains.
 By achieving the outlined goals, one will emerge proficient in statistical modeling with Python, equipped to tackle complex data analysis challenges with confidence and efficacy.
 
