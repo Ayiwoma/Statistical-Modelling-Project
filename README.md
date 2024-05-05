@@ -31,7 +31,11 @@ skills to extract valuable insights from data, make data-driven decisions, and d
 By achieving the outlined goals, one will emerge proficient in statistical modeling with Python, equipped to tackle complex data analysis challenges with confidence and efficacy.
 
 ## Process
-### (your step 1)
+### The provcesRetrieve data from two different API using python
+
+The process involved in this project involved several steps.
+1. Define the problem and objectives
+   
 ### (your step 2)
 
 ## Results
