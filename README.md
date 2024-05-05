@@ -34,6 +34,7 @@ By achieving the outlined goals, one will emerge proficient in statistical model
 ### The provcesRetrieve data from two different API using python
 
 The process involved in this project involved several steps.
+
 1. Define the problem and objectives
    
 ### (your step 2)
