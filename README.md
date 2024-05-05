@@ -50,12 +50,18 @@ The process involved in this project involved several steps.
 ## Results
 (fill in what you found about the comparative quality of API coverage in your chosen area and the results of your model.)
 
+
+
 The results gotten from this data showed the city bikes produced more details than yelp and foursquare and in the aspect of merging this data, showed that yelp was able to provide more detailed results than foursquare.
 
 ## Challenges 
 (discuss challenges you faced in the project)
+
+
 In comparison the caused some challenges as foursquare data did not produce as much details as yelp and city bike, this limited comparison in areas like ratings as I was unable to compare the data from yelp and foursquare using the parameter of ratings because foursquare did not have ratings data availble.
 
 ## Future Goals
 (what would you do if you had more time?)
+
+
 Explore another city to compare if foursquare API will provide more detailed data as against the missing values gotten when the city London UK was used, it would have shown if the challenges achieved when trying to retrieve the data would not have happened if I had used another city.
