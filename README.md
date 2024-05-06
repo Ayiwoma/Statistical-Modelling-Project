@@ -31,7 +31,6 @@ skills to extract valuable insights from data, make data-driven decisions, and d
 By achieving the outlined goals, one will emerge proficient in statistical modeling with Python, equipped to tackle complex data analysis challenges with confidence and efficacy.
 
 ## Process
-### The provcesRetrieve data from two different API using python
 
 The process involved in this project involved several steps.
 
@@ -45,7 +44,7 @@ The process involved in this project involved several steps.
 3. Document the results gotten from the retrieved data and process it by using visualization such as histogram etc to        present these findings to stakeholders as well as make recommendations or insights based on analysis retrieved from 
    this data.
    
-### (your step 2)
+
 
 ## Results
 (fill in what you found about the comparative quality of API coverage in your chosen area and the results of your model.)
@@ -54,14 +53,16 @@ The process involved in this project involved several steps.
 
 The results gotten from this data showed the city bikes produced more details than yelp and foursquare and in the aspect of merging this data, showed that yelp was able to provide more detailed results than foursquare.
 
+
+
 ## Challenges 
-(discuss challenges you faced in the project)
 
 
-In comparison the caused some challenges as foursquare data did not produce as much details as yelp and city bike, this limited comparison in areas like ratings as I was unable to compare the data from yelp and foursquare using the parameter of ratings because foursquare did not have ratings data availble.
+
+The challenges acquired in this project showed that some API produced more information than others, in using foursquare API data did not produce as much details as yelp and city bike, this limited comparison in areas like ratings as I was unable to compare the data from yelp and foursquare using the parameter of ratings because foursquare did not have ratings data availble.
 
 ## Future Goals
-(what would you do if you had more time?)
 
 
-Explore another city to compare if foursquare API will provide more detailed data as against the missing values gotten when the city London UK was used, it would have shown if the challenges achieved when trying to retrieve the data would not have happened if I had used another city.
+
+Explore another city to compare if foursquare API will provide more detailed data than collected, this is because the data retrieved compared to the other API had missing values for the city London UK which was used, it would have shown if the challenges achieved when trying to retrieve the data would not have happened if I had used another city.
