@@ -45,6 +45,8 @@ The process involved in this project involved several steps.
 
 4. In the process of data wrangling I worked with two data sources as earlier mentioned yelp and foursquare were the data was pulled from. The data pulled was human readable after it was placed in Dataframe.
 
+5. Data Preprocessing: This was needed, to process data by handling missing values, encoding categorical variables, and scaling numerical features
+
 
 ## Results
 (fill in what you found about the comparative quality of API coverage in your chosen area and the results of your model.)
