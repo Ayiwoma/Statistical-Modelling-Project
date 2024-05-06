@@ -63,6 +63,11 @@ The results gotten from this data showed
 
 4. Merging this data, showed that yelp was able to provide more detailed results than foursquare.
 
+5. Comparing top restaurants data gotten from yelp API and foursquare API
+   In coverage yelp API showed from its data that it had more coverage than foursquare API
+   In ratings yelp API gave more details in its results and a higher rating than the foursquare API
+   Finally the yelp API showed more details in the address shown in its results from the data generated.
+
 
 
 ## Challenges 
