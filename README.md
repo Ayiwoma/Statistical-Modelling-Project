@@ -70,10 +70,12 @@ The results gotten from this data showed
 
 1. City bikes API produced more details from queries generated than the other API used.
    
-2. Yelp  API provided more details regarding points of interest, the data gotten was very relevant to the analysis used, which made it easier to draw references from results gotten.
+2. Yelp  API provided more details regarding points of interest, the data gotten was very relevant to the analysis used, 
+   which made it easier to draw references from results gotten.
 
    
-3. Foursquare API had some limitations although it did produce relevant results but it was not as detailed as using the data gotten from yelp which was more detailed
+3. Foursquare API had some limitations although it did produce relevant results but it was not as detailed as using the 
+   data gotten from yelp which was more detailed
 
 
 4. Merging this data, showed that yelp was able to provide more detailed results than foursquare.
