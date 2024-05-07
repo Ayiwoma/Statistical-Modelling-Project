@@ -36,16 +36,27 @@ The process involved in this project involved several steps.
 
 1. Define the problem and objectives
 
-   Explore the data retrieved from the city bikes, yelp and foursquare API, join this data using python with focus on        London, Uk by converting this data to csv
+   Explore the data retrieved from the city bikes, yelp and foursquare API, join this data using python with focus 
+   on the city of London, Uk.
 
-2. Filter this data, analyze and interpret this data. This enables conclusions to be drawn of the findings from this data    and its potential impact. Use Dataframe to filter this data to make it more readable.
+2. Filter this data and analyze this data.
+   
+   This process allows for first filtering the data to find out the information necessary/relevant, looking at 
+   information valuable to be used to enable a business make important decisions, which can contribute to being 
+   able to draw conclusions from the findings from of this data and its potential impact. Use Dataframe to filter 
+   this data to make it more readable.
   
-3. Document the results gotten from the retrieved data and process it by using visualization such as histogram etc to        present these findings to stakeholders as well as make recommendations or insights based on analysis retrieved from 
-   this data.
+4. Document the results gotten from the retrieved data and process it by using visualization such as histogram etc 
+   to present these findings to stakeholders as well as make recommendations or insights based on analysis 
+   retrieved from this data.
 
-4. In the process of data wrangling I worked with two data sources as earlier mentioned yelp and foursquare were the data    was pulled from. The data pulled was human readable after it was placed in Dataframe.
+5. In the process of data wrangling I worked with two data sources as earlier mentioned yelp and foursquare were 
+   the data was pulled from. The data pulled was human readable after it was placed in Dataframe.
 
-5. Data Preprocessing: This was needed, to process data by handling missing values, encoding categorical variables, and      scaling numerical features
+6. Data Preprocessing: This was needed, to process data by handling missing values, encoding categorical 
+   variables, and scaling numerical features, it allows the Dataframe to process this data to make it more 
+   readable.
+  
 
 
 ## Results
