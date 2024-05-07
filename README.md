@@ -56,7 +56,9 @@ The process involved in this project involved several steps.
 6. Data Preprocessing: This was needed, to process data by handling missing values, encoding categorical 
    variables, and scaling numerical features, it allows the Dataframe to process this data to make it more 
    readable.
-  
+
+7. In using regression, the algorithm showed how Mean Squared Error: 3.944304526105059e-31 and R-squared Score: 
+   0.0 which showed that the data retrieved was good.
 
 
 ## Results
