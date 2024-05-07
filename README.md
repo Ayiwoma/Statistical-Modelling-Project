@@ -38,14 +38,14 @@ The process involved in this project involved several steps.
 
    Explore the data retrieved from the city bikes, yelp and foursquare API, join this data using python with focus on        London, Uk by converting this data to csv
 
-2. Filter this data, analyze and interpret this data. This enables conclusions to be drawn of the findings from this data and its potential impact. Use Dataframe to filter this data to make it more readable.
+2. Filter this data, analyze and interpret this data. This enables conclusions to be drawn of the findings from this data    and its potential impact. Use Dataframe to filter this data to make it more readable.
   
 3. Document the results gotten from the retrieved data and process it by using visualization such as histogram etc to        present these findings to stakeholders as well as make recommendations or insights based on analysis retrieved from 
    this data.
 
-4. In the process of data wrangling I worked with two data sources as earlier mentioned yelp and foursquare were the data was pulled from. The data pulled was human readable after it was placed in Dataframe.
+4. In the process of data wrangling I worked with two data sources as earlier mentioned yelp and foursquare were the data    was pulled from. The data pulled was human readable after it was placed in Dataframe.
 
-5. Data Preprocessing: This was needed, to process data by handling missing values, encoding categorical variables, and scaling numerical features
+5. Data Preprocessing: This was needed, to process data by handling missing values, encoding categorical variables, and      scaling numerical features
 
 
 ## Results
