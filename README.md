@@ -69,23 +69,54 @@ The process involved in this project involved several steps.
 The results gotten from this data showed
 
 1. City bikes API produced more details from queries generated than the other API used.
-   
-2. Yelp  API provided more details regarding points of interest, the data gotten was very relevant to the analysis used, 
-   which made it easier to draw references from results gotten.
+   ![image](https://github.com/Ayiwoma/Statistical-Modelling-Project/assets/141646278/7bc2d930-64ee-4cd3-a120-71c1af93b4c1)
 
+2. City  API provided more details regarding points of interest, the data gotten was very relevant to the analysis used, 
+   which made it easier to draw references from results gotten. Some of this were location, name of station, capacity,       restaurant name and category.
+
+   101, 'Aldwych Underground Station', 20, 'Dishoom', 'Indian', 4.5
    
-3. Foursquare API had some limitations although it did produce relevant results but it was not as detailed as using the 
+   101, 'Aldwych Underground Station', 20, 'Barrafina', 'British, Steakhouses, Cocktail Bars', 4.4
+   
+   101, 'Aldwych Underground Station', 20, 'The Admiralty', 'Steakhouses, British', 3.8
+                      
+4. Foursquare API had some limitations although it did produce relevant results but it was not as detailed as using the 
    data gotten from yelp which was more detailed
+![image](https://github.com/Ayiwoma/Statistical-Modelling-Project/assets/141646278/7fec7319-8298-43b9-8202-2641dcf54f57)
 
 
-4. Merging this data, showed that yelp was able to provide more detailed results than foursquare.
+5. Merging this data, showed that yelp was able to provide more detailed results than foursquare.
 
-5. Comparing top restaurants data gotten from yelp API and foursquare API
+
+
+![image](https://github.com/Ayiwoma/Statistical-Modelling-Project/assets/141646278/177ce7f6-9782-4be3-97b4-3cdee82be675)
+
+6. Comparing top restaurants data gotten from yelp API and foursquare API
    In coverage yelp API showed from its data that it had more coverage than foursquare API
    In ratings yelp API gave more details in its results and a higher rating than the foursquare API
    Finally the yelp API showed more details in the address shown in its results from the data generated.
 
+   Top 10 Restaurants from Yelp:
 
+   African Volcano, Rating: 5.0
+   
+   Nepa Coffee & Food, Rating: 5.0
+   
+   Rainforest Creations, Rating: 5.0
+   
+   Skewers, Rating: 5.0
+   
+   Holloway Best Kebab, Rating: 5.0
+   
+   The Black Cab Coffee Co, Rating: 5.0
+   
+   Camberwell Arms, Rating: 5.0
+   
+   Blue Orchid Chinese Restaurant, Rating: 5.0
+   
+   Oi Vita Pizzeria, Rating: 5.0
+   
+   Chokhi Dhani, Rating: 5.0
 
 ## Challenges 
 
