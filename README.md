@@ -6,22 +6,36 @@ and methodoligies to derive actionable insights from data.
 
 ## Project/Goals
 
-1. Mastery of Python Fundamentals: Begin by solidifying proficiency in Python programming, encompassing core concepts like variables, loops, conditionals,
+1. Mastery of Python Fundamentals:
+  
+  
+   Begin by solidifying proficiency in Python programming, encompassing core concepts like variables, loops, conditionals,
    functions, and data structures. This foundational knowledge will serve as a springboard for the subsequent statistical modeling tasks.
 
-2. Understanding Statistical Concepts: Gain a deep understanding of fundamental statistical principles, including probability distributions, hypothesis testing,
-   regression analysis, and statistical inference. This comprehension lays the groundwork for effective application of statistical modeling techniques.
+2. Understanding Statistical Concepts:
+  
+   Gain a deep understanding of fundamental statistical principles, including probability distributions, hypothesis testing,
+   regression analysis, and statistical inference. This comprehension lays the groundwork for effective application of statistical modeling    
+   techniques.
 
-3. Exploratory Data Analysis(EDA): Practice conducting EDA on diverse datasets to uncover patterns, trendsm and anomalies. Utilize visualization libraries
+3. Exploratory Data Analysis(EDA):
+
+   Practice conducting EDA on diverse datasets to uncover patterns, trendsm and anomalies. Utilize visualization libraries
    like Matplotlib and Seaborn to create insightful plots and graphs that facilitate data exploration and interpretation.
 
-4. Linear Regression: Master the implementation of linear regression models for modeling relationships between variables. Learn to assess model assumptions,
+4. Linear Regression:
+
+   Master the implementation of linear regression models for modeling relationships between variables. Learn to assess model assumptions,
    perform diagnostics, and interpret regression coefficients to extract meaningful insights from data.
 
-5. Logistic Regression: Extend modeling capabilities to classification problems through logistic regression. Develop proficiency in building binary and
+5. Logistic Regression:
+
+   Extend modeling capabilities to classification problems through logistic regression. Develop proficiency in building binary and
    multinomial logistic regression models, evaluating model performance, and interpreting coefficients to make informed decisions.
 
-6. Real-world Applications: Apply acquired statistical modeling skills to real-world datasets and problems across diverse domains.
+6. Real-world Applications:
+
+   Apply acquired statistical modeling skills to real-world datasets and problems across diverse domains.
    Engage in hands-on projects to address practical challenges and derive actionable insights from data.
    
 Conclusion:
@@ -72,7 +86,8 @@ The results gotten from this data showed
    ![image](https://github.com/Ayiwoma/Statistical-Modelling-Project/assets/141646278/7bc2d930-64ee-4cd3-a120-71c1af93b4c1)
 
 2. City  API provided more details regarding points of interest, the data gotten was very relevant to the analysis used, 
-   which made it easier to draw references from results gotten. Some of this were location, name of station, capacity,       restaurant name and category.
+   which made it easier to draw references from results gotten. Some of this were location, name of station, capacity,       restaurant name 
+   and category.
 
    101, 'Aldwych Underground Station', 20, 'Dishoom', 'Indian', 4.5
    
@@ -80,7 +95,7 @@ The results gotten from this data showed
    
    101, 'Aldwych Underground Station', 20, 'The Admiralty', 'Steakhouses, British', 3.8
                       
-4. Foursquare API had some limitations although it did produce relevant results but it was not as detailed as using the 
+3. Foursquare API had some limitations although it did produce relevant results but it was not as detailed as using the 
    data gotten from yelp which was more detailed
 ![image](https://github.com/Ayiwoma/Statistical-Modelling-Project/assets/141646278/7fec7319-8298-43b9-8202-2641dcf54f57)
 
